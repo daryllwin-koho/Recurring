@@ -1,0 +1,155 @@
+Downloading:   0%|[32m          [0m|Downloading:  34%|[32m███▍      [0m|Downloading:  34%|[32m███▍      [0m|Downloading:  69%|[32m██████▉   [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  62%|[32m██████▏   [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  61%|[32m██████    [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  59%|[32m█████▉    [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  59%|[32m█████▊    [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  57%|[32m█████▋    [0m|Downloading:  57%|[32m█████▋    [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  56%|[32m█████▌    [0m|Downloading:  56%|[32m█████▌    [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  55%|[32m█████▌    [0m|Downloading:  55%|[32m█████▌    [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  54%|[32m█████▍    [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  54%|[32m█████▎    [0m|Downloading:  54%|[32m█████▎    [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  53%|[32m█████▎    [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  52%|[32m█████▏    [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  51%|[32m█████     [0m|Downloading:  51%|[32m█████     [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  51%|[32m█████     [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  50%|[32m█████     [0m|Downloading:  50%|[32m█████     [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  49%|[32m████▉     [0m|Downloading:  99%|[32m█████████▉[0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  49%|[32m████▊     [0m|Downloading:  49%|[32m████▊     [0m|Downloading:  97%|[32m█████████▋[0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  48%|[32m████▊     [0m|Downloading:  96%|[32m█████████▌[0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  48%|[32m████▊     [0m|Downloading:  48%|[32m████▊     [0m|Downloading:  95%|[32m█████████▌[0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  47%|[32m████▋     [0m|Downloading:  94%|[32m█████████▍[0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  46%|[32m████▋     [0m|Downloading:  93%|[32m█████████▎[0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  46%|[32m████▌     [0m|Downloading:  91%|[32m█████████ [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  45%|[32m████▌     [0m|Downloading:  91%|[32m█████████ [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  45%|[32m████▍     [0m|Downloading:  89%|[32m████████▉ [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  44%|[32m████▍     [0m|Downloading:  88%|[32m████████▊ [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  43%|[32m████▎     [0m|Downloading:  43%|[32m████▎     [0m|Downloading:  87%|[32m████████▋ [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  43%|[32m████▎     [0m|Downloading:  43%|[32m████▎     [0m|Downloading:  86%|[32m████████▋ [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  43%|[32m████▎     [0m|Downloading:  43%|[32m████▎     [0m|Downloading:  85%|[32m████████▌ [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  42%|[32m████▏     [0m|Downloading:  42%|[32m████▏     [0m|Downloading:  83%|[32m████████▎ [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  40%|[32m███▉      [0m|Downloading:  40%|[32m███▉      [0m|Downloading:  80%|[32m███████▉  [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  39%|[32m███▊      [0m|Downloading:  77%|[32m███████▋  [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  38%|[32m███▊      [0m|Downloading:  38%|[32m███▊      [0m|Downloading:  77%|[32m███████▋  [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  38%|[32m███▊      [0m|Downloading:  38%|[32m███▊      [0m|Downloading:  76%|[32m███████▌  [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  37%|[32m███▋      [0m|Downloading:  37%|[32m███▋      [0m|Downloading:  75%|[32m███████▍  [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  37%|[32m███▋      [0m|Downloading:  73%|[32m███████▎  [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  37%|[32m███▋      [0m|Downloading:  73%|[32m███████▎  [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  36%|[32m███▌      [0m|Downloading:  72%|[32m███████▏  [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  36%|[32m███▌      [0m|Downloading:  36%|[32m███▌      [0m|Downloading:  71%|[32m███████▏  [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  35%|[32m███▌      [0m|Downloading:  35%|[32m███▌      [0m|Downloading:  70%|[32m███████   [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  36%|[32m███▌      [0m|Downloading:  36%|[32m███▌      [0m|Downloading:  71%|[32m███████▏  [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  35%|[32m███▌      [0m|Downloading:  71%|[32m███████   [0m|Downloading:  71%|[32m███████   [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading:  34%|[32m███▍      [0m|Downloading:  34%|[32m███▍      [0m|Downloading:  69%|[32m██████▉   [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|
+Downloading:   0%|[32m          [0m|Downloading: 100%|[32m██████████[0m|Downloading: 100%|[32m██████████[0m|/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:372: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed.sort_values(['user_reference', 'snapshot'], inplace = True)
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:381: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['prev_status'] = '0. New'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:384: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['new_loan'] = 'No'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:387: FutureWarning: Comparison of Timestamp with datetime.date is deprecated in order to match the standard library behavior. In a future version these will be considered non-comparable. Use 'ts == pd.Timestamp(date)' or 'ts.date() == date' instead.
+  if ind == 0 and final_accessed['snapshot'][ind] == final_accessed['cohort_end'][ind]:
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:390: FutureWarning: Comparison of Timestamp with datetime.date is deprecated in order to match the standard library behavior. In a future version these will be considered non-comparable. Use 'ts == pd.Timestamp(date)' or 'ts.date() == date' instead.
+  elif ind == 0 and final_accessed['snapshot'][ind] != final_accessed['cohort_end'][ind]:
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:391: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['prev_status'][ind] = '1. Current'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:392: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['new_loan'][ind] = 'No'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:395: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['prev_status'][ind] = final_accessed['snapshot_status'][ind-1]
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:397: FutureWarning: Comparison of Timestamp with datetime.date is deprecated in order to match the standard library behavior. In a future version these will be considered non-comparable. Use 'ts == pd.Timestamp(date)' or 'ts.date() == date' instead.
+  if final_accessed['snapshot'][ind] == final_accessed['cohort_end'][ind]:
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:400: FutureWarning: Comparison of Timestamp with datetime.date is deprecated in order to match the standard library behavior. In a future version these will be considered non-comparable. Use 'ts == pd.Timestamp(date)' or 'ts.date() == date' instead.
+  elif final_accessed['snapshot'][ind] != final_accessed['cohort_end'][ind]:
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:401: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['prev_status'][ind] = '1. Current'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:402: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['new_loan'][ind] = 'No'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:398: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['prev_status'][ind] = '0. non existent'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:399: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['new_loan'][ind] = 'Yes'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:405: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['new_default'] = '3. NA'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:410: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['new_default'][ind] = '1. Yes'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:412: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['new_default'][ind] = '2. No'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:418: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_not_accessed.sort_values(['user_reference', 'snapshot'], inplace = True)
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:424: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['prev_status'] = '0. non existent'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:427: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_accessed['new_loan'] = '0. No'
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:429: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_not_accessed['prev_status'] = np.where(final_not_accessed['snapshot'] == final_not_accessed['cohort_end'], '0. non existent', '1. Current')
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:431: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_not_accessed['new_loan'] = np.where(final_not_accessed['snapshot'] == final_not_accessed['cohort_end'], '1. Yes', '0. No')
+/Users/daryl.lwin/Desktop/Projects/Recurring/CBWeekly.py:434: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  final_not_accessed['new_default'] = '3. NA'
+
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 5210.32it/s]
